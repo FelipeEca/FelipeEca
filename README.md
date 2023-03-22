@@ -1,9 +1,13 @@
-### Hi there 👋
+### Oi oi gente 👋
 
 <!--
 **FelipeEca/FelipeEca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+-🧠Atualmente estudo no SESI/SENAI
+-🐱‍💻Tenho interesse na área de desenvolvimento de jogos
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +18,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+-🧠Atualmente estudo no SESI/SENAI
+
+-🐱‍💻Tenho interesse na área de desenvolvimento de jogos
+
+-🏫Curso desenvolvimento de sistemas
+
+-👾Ele/Dele
+
+-🤖Fanboy da área de exatas
