@@ -27,3 +27,5 @@ Here are some ideas to get you started:
 -👾Ele/Dele
 
 -🤖Fanboy da área de exatas
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeEca&theme=midnight-purple_icons=true)
