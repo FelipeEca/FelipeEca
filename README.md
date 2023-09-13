@@ -20,13 +20,7 @@ Here are some ideas to get you started:
 -->
 -🧠Atualmente estudo no SESI/SENAI
 
--🐱‍💻Tenho interesse na área de desenvolvimento de jogos
-
 -🏫Curso desenvolvimento de sistemas
-
--👾Ele/Dele
-
--🤖Fanboy da área de exatas
 
 ## Painel
 
